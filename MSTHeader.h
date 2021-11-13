@@ -1,4 +1,3 @@
-//Katie Ortiz - Homework #5 - CS 236 - 4/25/2021
 #include<iostream>
 #include <vector>
 #include <queue>
